@@ -28,3 +28,7 @@ Options
 -------------
 
 You can generate the `.gitignore` file using [gitignore.io](https://www.gitignore.io/)
+
+Build output and intermediate directories for each project can be changed in: 
+ - RightClick on project in the solution view /General/OutputDirectory 
+ - RightClick on project in the solution view /General/IntermediateDirectory
