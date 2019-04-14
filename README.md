@@ -18,9 +18,9 @@ Project structure
 
 This project has been set up with a specific file/folder structure in mind. The following describes some important features of this setup:
 
-  - `bins` : Contains the final executabiles
-  - `build`: Contains intermediate files generated during build time
-  - `include`: Public projects header files that need to be exposed
+  - `bin` : Contains the final executabiles (generated)
+  - `build`: Contains intermediate files generated during build time (generated)
+  - `include`: Public projects header files that need to be exposed (generated)
   - `lib`: External libraries used in the projects
   - `src`: Solution source files (*.cpp), organised in separate folders for multiple .vxcproj projects or only a `main.cpp` for single projects
 
